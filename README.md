@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hello World! I'm Zohneer Tariq</h1>
-<h3 align="center">A passionate Flutter developer with a knack for creating beautiful mobile experiences</h3>
+<h3 align="center">Transforming ideas into elegant mobile solutions with Flutter</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Flutter+Enthusiast;Future+Backend+Developer;Tech+Explorer;Young+and+Ambitious" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Flutter+Enthusiast;Future+Backend+Developer;Tech+Explorer;Professional+and+Ambitious" alt="Typing SVG" />
 </p>
 
 ## 🌟 About Me
@@ -29,9 +29,9 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zohneer Tariq's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&layout=compact&langs_count=8&theme=radical&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zohneer Tariq's Top Languages"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=axiftaj&theme=radical" alt="Zohneer Tariq's GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zohneertariq01&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zohneer Tariq's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohneertariq01&layout=compact&langs_count=8&theme=radical&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zohneer Tariq's Top Languages"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zohneertariq01&theme=radical" alt="Zohneer Tariq's GitHub Streak"/>
 </div>
 
 ## 🌐 Connect With Me
