@@ -1,34 +1,56 @@
- <h1 align="center">Hi 👋, I'm Zohneer Tariq</h1>
+<h1 align="center">👋 Hello World! I'm Zohneer Tariq</h1>
+<h3 align="center">A passionate Flutter developer with a knack for creating beautiful mobile experiences</h3>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: 
-- 😄 My website: 
-- ⚡ Fun fact: I'm comming to teen
-  
-### Connect with me:
-<div id="badges">
-  <a href="https://github.com/axiftaj">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-   <a href="https://www.instagram.com/axif_taj">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-   <a href="https://fb.com/aaxiftaj">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-   <a href="https://twitter.com/axiftaj">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Flutter+Enthusiast;Future+Backend+Developer;Tech+Explorer;Young+and+Ambitious" alt="Typing SVG" />
+</p>
+
+## 🌟 About Me
+- 🔭 Currently crafting magic with **Flutter**
+- 🌱 Diving deep into **Backend Development**
+- � Turning coffee into code since 2022
+- ⚡ Fun fact: I'm just entering my teens but building apps like a pro!
+- 🚀 Dream big: Working towards becoming a full-stack developer
+
+## 🛠 Tech Stack
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+### Backend & Databases
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Tools & Design
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 📈 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zohneer Tariq's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&layout=compact&langs_count=8&theme=radical&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zohneer Tariq's Top Languages"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=axiftaj&theme=radical" alt="Zohneer Tariq's GitHub Streak" />
 </div>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/axiftaj" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/axif_taj" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=axiftaj&label=Profile%20views&color=0e75b6&style=flat" alt="Zohneer Tariq's profile views" /> 
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=axiftaj&theme=radical&no-frame=true&row=1&margin-w=15" alt="Zohneer Tariq's GitHub Trophies" />
+</p>
