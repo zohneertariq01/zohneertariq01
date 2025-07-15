@@ -36,10 +36,10 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/axiftaj" target="_blank">
+  <a href="https://github.com/zohneertariq01" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.instagram.com/axif_taj" target="_blank">
+  <a href="https://www.instagram.com/zohneertariq01?igsh=MXkwNXk3d2p4amp5Yg==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:your-email@example.com" target="_blank">
